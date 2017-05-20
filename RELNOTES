@@ -4,6 +4,7 @@ firejail (0.9.46.1) baseline; urgency=low
   * bugfix: bringing back --fix option for firecfg
   * bugfix: removed ipc-namespace from firefox profile
   * bugfix: allow python and python3 for youtube-dl in MPV profile
+  * bugfix: install broken when source code configured with --disable-seccomp
  -- netblue30 <netblue30@yahoo.com>  Sat, 20 May 2017 08:00:00 -0500
   
 firejail (0.9.46) baseline; urgency=low
